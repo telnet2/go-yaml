@@ -1,0 +1,4 @@
+This repo was forked from https://github.com/haveblue-io/go-yaml, which was forked from https://github.com/go-yaml/yaml
+
+It was our inevitable choice to fork and change the module name in order to use within our project, 
+which needed to use `json` tag instead of `yaml` tag to work with PB generated types.
